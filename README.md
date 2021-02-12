@@ -1,6 +1,6 @@
 # AWS CodeDeploy samples for Ubuntu lightsail or EC2
 
-Using this method in https://aws.amazon.com/blogs/compute/using-aws-codedeploy-and-aws-codepipeline-to-deploy-applications-to-amazon-lightsail/ but switch Amazon Linux to Ubuntu.
+Using this method in https://aws.amazon.com/blogs/compute/using-aws-codedeploy-and-aws-codepipeline-to-deploy-applications-to-amazon-lightsail/ but switch Amazon Linux to Ubuntu. basic on https://github.com/mikegcoleman/CodeDeployGitHubDemo 
 
 AWS CodeDeploy Samples
 The samples in the repository each demonstrate one of a few different scenarios. These fall into one of a few different categories, including:
